@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+      <head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, inittial- scale=1.0">
+	<meta name="description" content="Loja de Produtos Eletrônicos - Melhor loja para compras online">
+	<meta name="author" content="Seu Nome">
+	<meta name="keywords" content="loja, eletrônicos, compras, promoções">
+	<title>Loja Eletrônica</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<h2>Imagem do produto</h2>
+	<img src="produto.jpg">
+</body>
+</html>
